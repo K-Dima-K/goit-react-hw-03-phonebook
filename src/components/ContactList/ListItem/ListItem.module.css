@@ -1,0 +1,16 @@
+.text {
+  display: inline-block;
+  width: 230px;
+}
+
+.removeBtn {
+  background-color: red;
+  color: aliceblue;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.removeBtn:hover,
+.removeBtn:focus {
+  background-color: rgb(204, 115, 115);
+}

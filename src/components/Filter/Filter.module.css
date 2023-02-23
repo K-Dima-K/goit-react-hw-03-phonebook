@@ -1,0 +1,18 @@
+.formGroup {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.label {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.input {
+  font-size: 14px;
+  /* width: 250px; */
+  padding: 3px;
+  margin-bottom: 20px;
+}
